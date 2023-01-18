@@ -1,0 +1,6 @@
+./test_dir/t02.h:hello world
+./test_dir/t01.c:hello world
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.001s
